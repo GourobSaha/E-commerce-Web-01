@@ -45,3 +45,12 @@
   border-radius: 10px;
   box-shadow: 5px 5px 10px lightgray;
 }
+.card-footer {
+  background-color: #fceae8;
+}
+#register {
+  height: 300px;
+}
+#register h6 {
+  color: gray;
+}
