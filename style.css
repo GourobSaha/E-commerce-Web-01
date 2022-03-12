@@ -19,3 +19,24 @@
 .price {
   color: #ff136f;
 }
+.cat1 {
+  background-color: orange;
+}
+.cat2 {
+  background-color: rgb(243, 53, 116);
+}
+.cat3 {
+  background-color: rgb(75, 75, 194);
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.categories h1 {
+  color: whitesmoke;
+}
+.categories img {
+  width: 100px;
+}
